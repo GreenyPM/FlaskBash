@@ -8,3 +8,5 @@ Start:
 Finish:
 
 ![FlaskBashAfter](https://github.com/GreenyPM/FlaskBash/assets/81530437/4382c898-80c0-48fe-ba34-fa453c25a1b4)
+
+Then place the generated files in the directory you wish to start a Flask Project with.
